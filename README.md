@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Will Domine
 
-- 🔭 This year I am looking for an internship! I'm mainly focusing on school work this year, as I'm currently an 18 credit student.
+- 🔭 This year I am looking for an internship! I'm mainly focusing on school work this year, as I'm currently an 18-credit student.
   
 - 🌱 I’m currently learning Golang and deepening my understanding of the Flutter framework, while working with the Firebase backend.
   
 - 📚 I'm a sophomore at the University of Wisconsin-Whitewater where I'm earning my Bachelor of Science in Computer Science, with a Minor in Cybersecurity with an expected graduation semester of Winter 2026.
 
-- ⚡ Fun fact: The first language I learned was python when I was 14 years old!
+- ⚡ Fun fact: The first language I learned was Python when I was 14 years old!
 
 - 📫 Ways to contact me!
   
