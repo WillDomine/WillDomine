@@ -2,7 +2,7 @@
 
 - 🔭 Excited to pursue computer science and never stop learning!
   
-- 🌱 I’m currently learning Golang and deepening my understanding of the Flutter framework, while working with the Firebase backend.
+- 🌱 I’m currently learning Springboot and deepening my understanding of the Lynx framework, while working with the Firebase backend.
   
 - 📚 I'm a sophomore at the University of Wisconsin-Whitewater where I'm earning my Bachelor of Science in Computer Science, with a Minor in Cybersecurity with an expected graduation semester of Winter 2026.
 
