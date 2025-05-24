@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently deepening my knowledge in backend services.
   
-- 📚 I'm a sophomore at the University of Wisconsin-Whitewater where I'm earning my Bachelor of Science in Computer Science, with a Minor in Cybersecurity with an expected graduation semester of Winter 2026.
+- 📚 I'm a junior at the University of Wisconsin-Whitewater where I'm earning my Bachelor of Science in Computer Science, with a Minor in Cybersecurity with an expected graduation semester of December 2026.
 
 - ⚡ Fun fact: The first language I learned was Python when I was 14 years old!
 
